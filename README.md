@@ -21,7 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
 </div>
 
-## :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaconant&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-  
+## :fire: My Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaconant&layout=compact&theme=vision-friendly-dark)](https://github.com/kaconant/github-readme-stats)
