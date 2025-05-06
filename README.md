@@ -14,13 +14,14 @@ Product-Focused UI Engineer · Design Systems · Accessibility · Developer Tool
 
 ## 🧭 About Me
 
-I'm a senior frontend engineer who thrives at the intersection of product, design systems, and developer experience. I build **accessible, intuitive UIs**, maintain **framework-agnostic component libraries**, and contribute to **tools that help engineers move faster**.
+I'm a senior frontend engineer who thrives at the intersection of product, design systems, and developer experience. I build accessible, intuitive UIs, maintain React design systems, and contribute to tools that help engineers move faster.
 
 My work spans:
-- ✨ Design systems (React-focused)
-- 🧪 A11y-first testing & Storybook documentation
-- 🛠 Monorepo + build tooling with Vite + pnpm
-- 💡 Product-oriented engineering with a UX lens
+- ✨ React/TypeScript design systems with Storybook, CSS Modules, Styled Components, and Jest
+- 🧪 A11y-first product engineering using React Testing Library, jest-axe, Vitest, and semantic HTML
+- 🛠 Modern tooling with Vite, pnpm, GitHub Actions, custom NPM packages
+- ⚙️ Tech stack fluency of React, Vue (v2/v3), Redux Toolkit, Apollo, React Query
+- 🔧 Side projects exploring AI UIs, testing automation, and performance optimization
 
 Currently, I’m building [`sigil-design-system`](https://github.com/kaconant/sigil-design-system) — a high-performance, accessible component library powered by design tokens, Storybook, and React.
 
